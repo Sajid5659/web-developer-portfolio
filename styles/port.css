@@ -62,7 +62,7 @@ nav{
     margin: 0 200px;
 }
 .text-primary{
-    color: FD6E0A;
+    color: #FD6E0A;
 }
 .nav-title{
     font-weight: 800;
@@ -137,4 +137,36 @@ main section{
 }
 .skills{
     margin-left: 100px;
+}
+/* resume styles */
+.resume-cont{
+    display: flex;
+    gap: 24px;
+}
+.resume-colum-title{
+    font-size: 30px;
+    font-weight: bold;
+}
+.experience-title{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.experience-subtitle{
+    font-size: 20px;
+    font-weight: 600;
+    color: #757575;
+    margin-bottom: 20px;
+}
+.experience-desc{
+    font-size: 16px;
+    font-weight: regular;
+    color: #757575;
+}
+.resume hr{
+    margin: 30px 5px;
+}
+.button-cv
+{
+    margin-top: 50px;
 }
